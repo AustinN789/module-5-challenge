@@ -39,5 +39,8 @@ Please refer to the LICENSE in the repo.
 
 ## URL
 
+https://austinn789.github.io/module-5-challenge/
+
+git@github.com:AustinN789/module-5-challenge.git
 
 
