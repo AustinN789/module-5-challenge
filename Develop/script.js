@@ -1,5 +1,4 @@
 var saveBtn = $('.saveBtn')
-var eightId =$('#hour8')
 var nineId =$('#hour9')
 var tenId =$('#hour10')
 var eleven =$('#hour11')
@@ -9,11 +8,9 @@ var two =$('#hour14')
 var three =$('#hour15')
 var four =$('#hour16')
 var five =$('#hour17')
-var six =$('#hour18')
 var textarea = $(".form-control")
 
 //array variables
-var eight =$('#hr8')
 var nine =$('#hr9')
 var ten =$('#hr10')
 var eleven =$('#hr11')
@@ -23,9 +20,8 @@ var two =$('#hr14')
 var three =$('#hr15')
 var four =$('#hr16')
 var five =$('#hr17')
-var six =$('#hr18')
 
-var timeArray = [eight, nine, ten, eleven, twelve, one, two, three, four, five, six]
+var timeArray = [nine, ten, eleven, twelve, one, two, three, four, five]
 
 var text;
 var hourSpan;
